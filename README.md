@@ -3,18 +3,13 @@
 
 最近は、自分専用のweb上で動く音楽プレイヤーを開発中です。
 
-「※ プライベートリポジトリのときに機密ファイルを誤ってコミットしてしまい、パブリックに変更した際に気づいて機密ファイルの大掃除をした影響で、Contributions数が実際より多く見えています。草の量自体は変わっていません。」
+
 
 ## 技術スタック
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=react,ts,js,nodejs,express,tailwindcss,scss,firebase" />
 
 
-## 活動
-<div align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=yyyyoshida&theme=vue-dark&layout=compact&cache_seconds=0" />
-  <img
-  alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyyyoshida&theme=vue-dark&layout=compact&cache_seconds=0"/>
-</div>
+
 
 
 
